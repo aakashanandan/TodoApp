@@ -1,2 +1,16 @@
-# TodoApp
-ToDoApp is a simple and efficient task management application developed using Flutter. This app demonstrates the use of BLoC for state management, clean architecture principles, and comprehensive testing practices. It allows users to manage their tasks efficiently with features to add, mark as completed, delete, and filter tasks.
+# todo
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
